@@ -19,6 +19,8 @@ I'm certain that this roadmap may help you to understand a modern game developme
   <li>Artifficial Intelligence</li>
   <li>Game Sound</li>
   <li>Multiplayer Games</li>
+  <li>Some more advices</li>
+  <li>Sources</li>
   <li>Aknowledges</li>
 </ol>
 <h2>Before we start</h2>
@@ -27,3 +29,7 @@ I'm certain that this roadmap may help you to understand a modern game developme
 <p align="center">
   <img alt="Math prerequisites" src="https://user-images.githubusercontent.com/31415381/142594757-80ff9e6e-18bc-437d-953f-8a7df511e156.png" />
 </p>
+<h2>Aknowledges</h2>
+<ul>
+  <li>kzolozhkov</li>
+</ul>
