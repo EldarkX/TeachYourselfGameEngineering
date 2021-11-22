@@ -7,6 +7,7 @@ I use such phrasing as <strong>Game Engineering</strong> because I believe in a 
 I'm certain that this roadmap may help you to understand a modern game development approach better as well as widen your technical expertise.</p>
 <h1>Contents</h1>
 <ol>
+  <li start=0>Before we start</li>
   <li>Math Prerequisites</li>
   <li>General Computer Science</li>
   <li>Software Engineering</li>
@@ -18,7 +19,11 @@ I'm certain that this roadmap may help you to understand a modern game developme
   <li>Artifficial Intelligence</li>
   <li>Game Sound</li>
   <li>Multiplayer Games</li>
+  <li>Aknowledges</li>
 </ol>
+<h2>Before we start</h2>
+<p></p>
+<h2>Math Prerequisites</h2>
 <p align="center">
   <img alt="Math prerequisites" src="https://user-images.githubusercontent.com/31415381/142594757-80ff9e6e-18bc-437d-953f-8a7df511e156.png" />
 </p>
