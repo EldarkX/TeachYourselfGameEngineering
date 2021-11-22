@@ -1,7 +1,10 @@
 # TeachYourselfGameEngineering
 <h1>Foreword</h1>
-<p>Here is my personal and truly comprehensive roadmap to be a game engineer. I want to share it with you, because knowledge and methodology is a shared property that that gets better when many people are involved.
-I use phrase <strong>Game Engineering</strong> because I believe in scientific approach and I think that a true developer also should be an engineer. The study goal is build your own game engine with advanced features such as a rendering system, UI, AI, a physics and collision system, networking support etc. I'm sure that it helps you to totally understand modern game development approach and you will be able to use this knowledge to wide your expertise.</p>
+<p>Here is my personal roadmap on how to become a game engineer. I want to share it with you because I feel that the knowledge base should be available to anyone free of charge and the more people we get involved the better.
+
+I use such phrasing as <strong>Game Engineering</strong> because I believe in a scientific approach and I think that a true developer is also an engineer. The ultimate goal is to build your own game engine with advanced features such as rendering system, UI, AI, physics and collision system, networking support etc. 
+
+I'm certain that this roadmap may help you to understand a modern game development approach better as well as widen your technical expertise.</p>
 <h1>Contents</h1>
 <ol>
   <li>Math Prerequisites</li>
