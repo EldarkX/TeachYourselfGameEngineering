@@ -12,10 +12,10 @@ I use phrase **Game Engineering** because I believe in scientific approach and I
   <li>Computer Graphics</li>
   <li>Game Physics</li>
   <li>User Interface</li>
-  <li>Artifficial Intelligence<\li>
-  <li>Game Sound<\li>
-  <li>Multiplayer Games<\li>
-<\ol>
+  <li>Artifficial Intelligence</li>
+  <li>Game Sound</li>
+  <li>Multiplayer Games</li>
+</ol>
 <p align="center">
   <img alt="Math prerequisites" src="https://user-images.githubusercontent.com/31415381/142594757-80ff9e6e-18bc-437d-953f-8a7df511e156.png" />
 </p>
