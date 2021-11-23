@@ -7,7 +7,7 @@ I use such phrasing as <strong>Game Engineering</strong> because I believe in a 
 I'm certain that this roadmap may help you to understand a modern game development approach better as well as widen your technical expertise.</p>
 <h1>Contents</h1>
 <ol start="0">
-  <li>Before we start</li>
+  <li><a href="#before-we_start">Before we start</a></li>
   <li>Math Prerequisites</li>
   <li>General Computer Science</li>
   <li>Software Engineering</li>
