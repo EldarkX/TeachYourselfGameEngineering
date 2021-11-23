@@ -24,7 +24,7 @@ I'm certain that this roadmap may help you to understand a modern game developme
   <li>Aknowledges</li>
 </ol>
 <h2>Before we start</h2>
-On this survey you need both a motivation and a proper approach to learn a lot of new knowledges. I highy recommend you to read [Deep Work by Cal Newport](https://www.calnewport.com/books/deep-work/) and [Learning How To Learn by Barbara Oakley](https://barbaraoakley.com/books/learning-how-to-learn/). These books help you prepare to the hard work and you will be studying much more efficiently.
+<p>On this survey you need both a motivation and a proper approach to learn a lot of new knowledges. I highy recommend you to read <a href="https://www.calnewport.com/books/deep-work/">Deep Work by Cal Newport</a> and [Learning How To Learn by Barbara Oakley](https://barbaraoakley.com/books/learning-how-to-learn/). These books help you prepare to the hard work and you will be studying much more efficiently.</p>
 <h4>Notaion</h4>
 <ul>
   <li><strong>Neccessary resource</strong></li>
