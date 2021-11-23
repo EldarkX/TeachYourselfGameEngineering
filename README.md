@@ -24,11 +24,15 @@ I'm certain that this roadmap may help you to understand a modern game developme
   <li>Aknowledges</li>
 </ol>
 <h2>Before we start</h2>
-<p></p>
-<h2>Math Prerequisites</h2>
-<p align="center">
-  <img alt="Math prerequisites" src="https://user-images.githubusercontent.com/31415381/142594757-80ff9e6e-18bc-437d-953f-8a7df511e156.png" />
+<p>On this survey you need both motivation and proper approach to learn a lot of new knowledges. I highy recommend you to read <a url="https://www.calnewport.com/books/deep-work/">Deep Work by Cal Newport</a> and <a url="https://barbaraoakley.com/books/learning-how-to-learn/">Learning How To Learn by Barbara Oakley</a>. These books help you prepare to the hard work and you will be studying much more efficiently.</p>
+<h4>Notaion</h4>
+<p color="yellow">Neccessary resource</p>
+<p color="white">Recommended resource</p>
+<p color="gray">Additional resource</p>
+<p>I recommend to do not skil white resources. Also if you want to become an outstanding game engineer you should deal with all gray resources and find more.</p>
 </p>
+<h2>Math Prerequisites</h2>
+<p> The question "Is math necessary for a software engineer?" is disscussed by experts all programming history, but for game engineer math surely is one of most important domains. Either you want to work on rendering systems, or design AI systems, or implement physics systems, or develop gameplay features, the math will be either a helpful ally or a hateful enemy.
 <h2>Aknowledges</h2>
 <ul>
   <li>kzolozhkov</li>
