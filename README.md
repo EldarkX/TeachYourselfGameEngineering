@@ -23,7 +23,7 @@ I'm certain that this roadmap may help you to understand a modern game developme
   <li>Sources</li>
   <li>Aknowledges</li>
 </ol>
-<h2>Before we start</h2>
+<h2>0. Before we start</h2>
 <p>On this survey you need both a motivation and a proper approach to learn a lot of new knowledges. I strongly suggest you read <a href="https://www.calnewport.com/books/deep-work/">Deep Work by Cal Newport</a> and <a href="https://barbaraoakley.com/books/learning-how-to-learn/">Learning How To Learn by Barbara Oakley</a> books. These books help you prepare to the hard work and you will be studying much more efficiently.</p>
 <h4>Notaion</h4>
 <ul>
