@@ -34,15 +34,36 @@ I'm certain that this roadmap may help you to understand a modern game developme
  <p>I advise you not to skip recommended resources. Also if you want to become an outstanding game engineer you should deal with all additional resources and try to find any more!</p>
 </p>
 <h2>1. Math Prerequisites</h2>
-<p> The question "Is math necessary for a software engineer?" is disscussed by experts all programming history, but for game engineer math surely is one of most important domains. If you want to work on rendering systems, or design AI systems, or implement physics systems, or develop gameplay features etc, the math will be either a helpful ally or a hateful enemy.!
-
+<p> The question "Is math necessary for a software engineer?" is disscussed by experts all programming history, but for game engineer math surely is one of most important domains. If you want to work on rendering systems, or design AI systems, or implement physics systems, or develop gameplay features etc, the math will be either a helpful ally or a hateful enemy.
 <ol>
   <li> <h3>Precalculus</h3>
-     <img src="https://user-images.githubusercontent.com/31415381/143224298-4032932c-a08e-43f9-a0ca-68380ad5b25e.png"></img>
-     <p>Precalculus 7th Edition by James Stewart</p>
-  </li>
-    
+     <p> Goal: understanding basic math concepts such as:</p>
+        <ul>
+          <li> Basis of the number theory
+          <li> Polynomial, rational, radical, exponential, and logarithmic functions and be able to solve corresponding equations
+          <li> Basis of trygonometry
+          <li> Plane and solid geometry
+          <li> Basis of probability theory
+        </ul>
+     <ul> Theory
+        <li>
+          <p><strong>Precalculus 7th Edition by James Stewart</strong></p>
+          <img src="https://user-images.githubusercontent.com/31415381/143224298-4032932c-a08e-43f9-a0ca-68380ad5b25e.png"></img>
+        </li>
+        <li>
+          <p><em>How to Solve It: A New Aspect of Mathematical Method by G. Polya, John H. Conway</em></p>
+          <img src="https://user-images.githubusercontent.com/31415381/143228072-f9dbbddd-56fb-4447-bb61-2089e09a5799.png"></img>
+        </li>
+     </ul>
+     <ul>Practice
+        <li> 
+          <p><strong>Pre-Calculus For Dummies: 1,001 Practice Problem by Mary Jane Sterling</p>
+          <img src="">
+        </li>
+     </ul>
+  </li>   
 </ol>
+
 <h2>Aknowledges</h2>
 <ul>
   <li>kzolozhkov</li>
