@@ -37,7 +37,8 @@ I'm certain that this roadmap may help you to understand a modern game developme
 <p> The question "Is math necessary for a software engineer?" is disscussed by experts all programming history, but for game engineer math surely is one of most important domains. If you want to work on rendering systems, or design AI systems, or implement physics systems, or develop gameplay features etc, the math will be either a helpful ally or a hateful enemy.
 <ol>
   <li> <h3>Precalculus</h3>
-     <p> Goal: understanding basic math concepts such as:</p>
+     <h4>Goal</h4>
+        <p>Understanding basic math concepts such as:</p>
         <ul>
           <li> Basis of the number theory
           <li> Polynomial, rational, radical, exponential, and logarithmic functions and be able to solve corresponding equations
@@ -45,14 +46,15 @@ I'm certain that this roadmap may help you to understand a modern game developme
           <li> Plane and solid geometry
           <li> Basis of probability theory
         </ul>
-     <ul> Theory
+     <h4>Theory</h4>
+     <ul> 
         <li>
           <p><strong>Precalculus 7th Edition by James Stewart</strong></p>
-          <img src="https://user-images.githubusercontent.com/31415381/143224298-4032932c-a08e-43f9-a0ca-68380ad5b25e.png"></img>
+          <img src="https://user-images.githubusercontent.com/31415381/143224298-4032932c-a08e-43f9-a0ca-68380ad5b25e.png" width="100" height="200"></img>
         </li>
         <li>
           <p><em>How to Solve It: A New Aspect of Mathematical Method by G. Polya, John H. Conway</em></p>
-          <img src="https://user-images.githubusercontent.com/31415381/143228072-f9dbbddd-56fb-4447-bb61-2089e09a5799.png"></img>
+          <img src="https://user-images.githubusercontent.com/31415381/143228072-f9dbbddd-56fb-4447-bb61-2089e09a5799.png" width="100" height="200"></img>
         </li>
      </ul>
      <ul>Practice
