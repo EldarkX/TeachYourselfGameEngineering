@@ -34,7 +34,7 @@ I'm certain that this roadmap may help you to understand a modern game developme
  <p>I recommend to do not skip white resources. Also if you want to become an outstanding game engineer you should deal with all gray resources and find any more.</p>
 </p>
 <h2>1. Math Prerequisites</h2>
-<p> The question "Is math necessary for a software engineer?" is disscussed by experts all programming history, but for game engineer math surely is one of most important domains. Either you want to work on rendering systems, or design AI systems, or implement physics systems, or develop gameplay features, the math will be either a helpful ally or a hateful enemy.
+<p> The question "Is math necessary for a software engineer?" is disscussed by experts all programming history, but for game engineer math surely is one of most important domains. If you want to work on rendering systems, or design AI systems, or implement physics systems, or develop gameplay features etc, the math will be either a helpful ally or a hateful enemy.
 <h2>Aknowledges</h2>
 <ul>
   <li>kzolozhkov</li>
