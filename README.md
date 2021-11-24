@@ -50,14 +50,15 @@ I'm certain that this roadmap may help you to understand a modern game developme
      <ul> 
         <li>
           <p><strong>Precalculus 7th Edition by James Stewart</strong></p>
-          <img src="https://user-images.githubusercontent.com/31415381/143224298-4032932c-a08e-43f9-a0ca-68380ad5b25e.png" width="100" height="200"></img>
+          <img src="https://user-images.githubusercontent.com/31415381/143224298-4032932c-a08e-43f9-a0ca-68380ad5b25e.png" width="200" height="230"></img>
         </li>
         <li>
           <p><em>How to Solve It: A New Aspect of Mathematical Method by G. Polya, John H. Conway</em></p>
-          <img src="https://user-images.githubusercontent.com/31415381/143228072-f9dbbddd-56fb-4447-bb61-2089e09a5799.png" width="100" height="200"></img>
+          <img src="https://user-images.githubusercontent.com/31415381/143228072-f9dbbddd-56fb-4447-bb61-2089e09a5799.png" width="200" height="230"></img>
         </li>
      </ul>
-     <ul>Practice
+     <h4>Practice</h4>
+     <ul>
         <li> 
           <p><strong>Pre-Calculus For Dummies: 1,001 Practice Problem by Mary Jane Sterling</p>
           <img src="">
