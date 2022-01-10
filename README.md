@@ -78,7 +78,50 @@ I'm certain that this roadmap may help you to understand a modern game developme
           <img src="https://user-images.githubusercontent.com/31415381/148806112-acfa667d-d9a1-4a0c-971c-191afe5c828f.png"  width="200" height="230"/>
         </li>
      </ul>
+    <h4>Additional resources</h4>
+     <ul>
+        <li> 
+          <p><a href="https://www.khanacademy.org/math/precalculus">Khan Academy: Precalculus</a></p>
+          <p><a href="https://www.youtube.com/playlist?list=PLl-Np5U6u5E4sv_fgOyo6nsHMWhf3P-6T"Precalculus Video Lecturus</a></p>
+        </li>
+     </ul>
   </li>   
+  <li> <h3>Calculus</h3>
+     <h4>Goal</h4>
+        <p>Understanding math concepts such as:</p>
+        <ul>
+          <li> Limits
+          <li> Derivatives
+          <li> Integrals
+          <li> Analyzing functions
+          <li> Differential equations
+        </ul>
+     <h4>Theory</h4>
+     <ul> 
+        <li>
+          <p><strong>Precalculus 7th Edition by James Stewart</strong></p>
+          <img src="https://user-images.githubusercontent.com/31415381/143224298-4032932c-a08e-43f9-a0ca-68380ad5b25e.png" width="200" height="230"/>
+        </li>
+        <li>
+          <p><em>How to Solve It: A New Aspect of Mathematical Method by G. Polya, John H. Conway</em></p>
+          <img src="https://user-images.githubusercontent.com/31415381/143228072-f9dbbddd-56fb-4447-bb61-2089e09a5799.png" width="200" height="230"/>
+        </li>
+     </ul>
+     <h4>Practice</h4>
+     <ul>
+        <li> 
+          <p><strong>Pre-Calculus For Dummies: 1,001 Practice Problem by Mary Jane Sterling</p>
+          <img src="https://user-images.githubusercontent.com/31415381/148806112-acfa667d-d9a1-4a0c-971c-191afe5c828f.png"  width="200" height="230"/>
+        </li>
+     </ul>
+    <h4>Additional resources</h4>
+     <ul>
+        <li> 
+          <p><a href="https://www.khanacademy.org/math/precalculus">Khan Academy: Precalculus</a></p>
+          <p><a href="https://www.youtube.com/playlist?list=PLl-Np5U6u5E4sv_fgOyo6nsHMWhf3P-6T"Precalculus Video Lecturus</a></p>
+        </li>
+     </ul>
+  </li>
 </ol>
 
 <h2>Aknowledges</h2>
