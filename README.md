@@ -97,19 +97,18 @@ I'm certain that this roadmap may help you to understand a modern game developme
      <h4>Theory</h4>
      <ul> 
         <li>
-          <p><strong>Precalculus 7th Edition by James Stewart</strong></p>
-          <img src="https://user-images.githubusercontent.com/31415381/143224298-4032932c-a08e-43f9-a0ca-68380ad5b25e.png" width="200" height="230"/>
+          <p><strong>Calculus 8th Edition by James Stewart</strong></p>
+          <img src="https://user-images.githubusercontent.com/31415381/148810039-0e69e056-e075-4e74-a5da-79beec2494eb.png" width="200" height="230"/>
         </li>
         <li>
-          <p><em>How to Solve It: A New Aspect of Mathematical Method by G. Polya, John H. Conway</em></p>
-          <img src="https://user-images.githubusercontent.com/31415381/143228072-f9dbbddd-56fb-4447-bb61-2089e09a5799.png" width="200" height="230"/>
+          <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr"><strong>3Blue1Brown: Essence of Calculus</strong></a>
         </li>
      </ul>
      <h4>Practice</h4>
      <ul>
         <li> 
           <p><strong>Pre-Calculus For Dummies: 1,001 Practice Problem by Mary Jane Sterling</p>
-          <img src="https://user-images.githubusercontent.com/31415381/148806112-acfa667d-d9a1-4a0c-971c-191afe5c828f.png"  width="200" height="230"/>
+          <img src="![image](https://user-images.githubusercontent.com/31415381/148810354-42fa00ed-b567-4715-abdd-cb08779d21cf.png)"  width="200" height="230"/>
         </li>
      </ul>
     <h4>Additional resources</h4>
