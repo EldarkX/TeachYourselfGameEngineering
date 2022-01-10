@@ -64,7 +64,7 @@ I'm certain that this roadmap may help you to understand a modern game developme
      <ul>
         <li> 
           <p><strong>Pre-Calculus For Dummies: 1,001 Practice Problem by Mary Jane Sterling</p>
-          <img src="">
+          <img src="https://user-images.githubusercontent.com/31415381/148806112-acfa667d-d9a1-4a0c-971c-191afe5c828f.png">
         </li>
      </ul>
   </li>   
