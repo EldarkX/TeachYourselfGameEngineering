@@ -80,10 +80,8 @@ I'm certain that this roadmap may help you to understand a modern game developme
      </ul>
     <h4>Additional resources</h4>
      <ul>
-        <li> 
-          <p><a href="https://www.khanacademy.org/math/precalculus">Khan Academy: Precalculus</a></p>
-          <p><a href="https://www.youtube.com/playlist?list=PLl-Np5U6u5E4sv_fgOyo6nsHMWhf3P-6T">Precalculus Video Lecturus</a></p>
-        </li>
+        <li><a href="https://www.khanacademy.org/math/precalculus">Khan Academy: Precalculus</a></li>
+        <li><a href="https://www.youtube.com/playlist?list=PLl-Np5U6u5E4sv_fgOyo6nsHMWhf3P-6T">Precalculus Video Lecturus</a></li>
      </ul>
   </li>   
   <li> <h3>Calculus</h3>
@@ -116,10 +114,8 @@ I'm certain that this roadmap may help you to understand a modern game developme
      </ul>
     <h4>Additional resources</h4>
      <ul>
-        <li> 
-          <p><a href="https://www.khanacademy.org/math/precalculus">Khan Academy: Precalculus</a></p>
-          <p><a href="https://www.youtube.com/playlist?list=PLl-Np5U6u5E4sv_fgOyo6nsHMWhf3P-6T"Precalculus Video Lecturus</a></p>
-        </li>
+        <li><a href="https://www.khanacademy.org/math/precalculus">Khan Academy: Precalculus</a></li>
+        <li><a href="https://www.youtube.com/playlist?list=PLl-Np5U6u5E4sv_fgOyo6nsHMWhf3P-6T">Precalculus Video Lecturus</a></li>
      </ul>
   </li>
 </ol>
