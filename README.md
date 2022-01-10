@@ -42,6 +42,13 @@ I'm certain that this roadmap may help you to understand a modern game developme
 </p>
 <h2>1. Math Prerequisites</h2>
 <p> The question "Is math necessary for a software engineer?" is disscussed by experts all programming history, but for game engineer math surely is one of most important domains. If you want to work on rendering systems, or design AI systems, or implement physics systems, or develop gameplay features etc, the math will be either a helpful ally or a hateful enemy.
+<h3>Contents</h3>
+<ol start="1">
+  <li><a href="#precalculus">Precalculus</a></li>
+  <li><a href="#calculus">Calculus</a></li>
+  <li><a href="#linear-algebra-basic">Linear Algebra: Basic</li>
+  <li><a href="#probability-theory">Probability Theory</li>
+</ol>
 <ol>
   <li> <h3>Precalculus</h3>
      <h4>Goal</h4>
