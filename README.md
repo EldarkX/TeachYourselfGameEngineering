@@ -24,7 +24,10 @@ I'm certain that this roadmap may help you to understand a modern game developme
   <li><a href="#aknowledges">Aknowledges</a></li>
 </ol>
 <h2>0. Before we start</h2>
-<p>On this journey  of learning a lot of new knowledge you need both a motivation and a proper approach to learn. I strongly suggest you to read <a href="https://www.calnewport.com/books/deep-work/">Deep Work by Cal Newport</a> and <a href="https://barbaraoakley.com/books/learning-how-to-learn/">Learning How To Learn by Barbara Oakley</a> books. These books help you prepare to the hard work and you will be studying much more efficiently.</p>
+<p>On this journey  of learning a lot of new knowledge you need both a motivation and a proper approach to learn. I strongly suggest you to read <a href="https://www.calnewport.com/books/deep-work/">Deep Work by Cal Newport</a> and <a href="https://barbaraoakley.com/books/learning-how-to-learn/">Learning How To Learn by Barbara Oakley</a> books. These books help you prepare to the hard work and you will be studying much more efficiently. Дисциплина и настрой станут ключевыми оппонентами фрустрации и прокрастинации, которые будут очень часто возникать.
+Хочу закончить эти слова сильной цитатой, которую следовать перечитывать каждый раз, когда опускаются руки:
+<blockquete>"Никогда не останавливайся на полпути к цели. Ты мечтал, ты начал делать, прикладывать усилия, значит, это было важно для тебя и тебе этого очень сильно хотелось. Не бросай. Ты просто устаешь на пути к мечте, и это не значит, что тебе не хватает мотивации, просто те трудности, которые ты встречаешь на пути, заставляют тебя сомневаться, притормозить, угнетают и делают все, чтобы ты остановился. Но, прошу тебя, не останавливайся. Это одна из уловок. Ты пройди до конца и получи то, что так сильно хотел. Ведь ты это заслуживаешь." </blockquete> </p>
+</p>
 <h4>Notation</h4>
 <ul>
   <li><strong>Neccessary resource</strong></li>
