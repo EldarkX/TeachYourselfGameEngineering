@@ -80,8 +80,8 @@ I'm certain that this roadmap may help you to understand a modern game developme
      </ul>
     <h4>Additional resources</h4>
      <ul>
-        <li><a href="https://www.khanacademy.org/math/precalculus">Khan Academy: Precalculus</a></li>
-        <li><a href="https://www.youtube.com/playlist?list=PLl-Np5U6u5E4sv_fgOyo6nsHMWhf3P-6T">Precalculus Video Lecturus</a></li>
+        <li><a href="https://www.khanacademy.org/math/precalculus">Khan Academy: Precalculus</a> (recommended)</li>
+        <li><a href="https://www.youtube.com/playlist?list=PLl-Np5U6u5E4sv_fgOyo6nsHMWhf3P-6T">Precalculus Video Lecturus</a>  (<em>additional</em>)</li>
      </ul>
   </li>   
   <li> <h3>Calculus</h3>
@@ -101,7 +101,7 @@ I'm certain that this roadmap may help you to understand a modern game developme
           <img src="https://user-images.githubusercontent.com/31415381/148810039-0e69e056-e075-4e74-a5da-79beec2494eb.png" width="200" height="230"/>
         </li>
         <li>
-          <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr"><strong>3Blue1Brown: Essence of Calculus</strong></a>
+          <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr">3Blue1Brown: Essence of Calculus <strong>(necessary)</strong></a>
         </li>
      </ul>
      <h4>Practice</h4>
