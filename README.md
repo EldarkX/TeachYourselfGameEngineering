@@ -101,7 +101,7 @@ I'm certain that this roadmap may help you to understand a modern game developme
           <img src="https://user-images.githubusercontent.com/31415381/148810039-0e69e056-e075-4e74-a5da-79beec2494eb.png" width="200" height="230"/>
         </li>
         <li>
-          <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr">3Blue1Brown: Essence of Calculus <strong>(necessary)</strong></a>
+          <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr">3Blue1Brown: Essence of Calculus</a> <strong>(necessary)</strong>
         </li>
      </ul>
      <h4>Practice</h4>
