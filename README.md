@@ -102,7 +102,7 @@ I'm certain that this roadmap may help you to understand a modern game developme
         </li>
         <li>
           <p> Calculus 4th edition by Michael Spivak </p>
-          <img src="![image](https://user-images.githubusercontent.com/31415381/150311356-6259ab3a-d89f-4697-a649-a5e10b19230c.png)" width="200" height="230"/>
+          <img src="https://user-images.githubusercontent.com/31415381/150311356-6259ab3a-d89f-4697-a649-a5e10b19230c.png" width="200" height="230"/>
         <li>
           <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr">"Essence of Calculus" by 3Blue1Brown</a> <strong>(necessary)</strong>
         </li>
