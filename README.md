@@ -80,8 +80,8 @@ I'm certain that this roadmap may help you to understand a modern game developme
      </ul>
     <h4>Additional resources</h4>
      <ul>
-        <li><a href="https://www.khanacademy.org/math/precalculus">Khan Academy: Precalculus</a> (recommended)</li>
-        <li><a href="https://www.youtube.com/playlist?list=PLl-Np5U6u5E4sv_fgOyo6nsHMWhf3P-6T">Precalculus Video Lecturus</a>  (<em>additional</em>)</li>
+        <li><a href="https://www.khanacademy.org/math/precalculus">"Precalculus Course" by Khan Academy</a> (recommended)</li>
+        <li><a href="https://www.youtube.com/playlist?list=PLl-Np5U6u5E4sv_fgOyo6nsHMWhf3P-6T">"Precalculus: Video Lectures" by Professor V</a>  (<em>additional</em>)</li>
      </ul>
   </li>   
   <li> <h3>Calculus</h3>
@@ -101,7 +101,10 @@ I'm certain that this roadmap may help you to understand a modern game developme
           <img src="https://user-images.githubusercontent.com/31415381/148810039-0e69e056-e075-4e74-a5da-79beec2494eb.png" width="200" height="230"/>
         </li>
         <li>
-          <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr">3Blue1Brown: Essence of Calculus</a> <strong>(necessary)</strong>
+          <p> Calculus 4th edition by Michael Spivak </p>
+          <img src="![image](https://user-images.githubusercontent.com/31415381/150311356-6259ab3a-d89f-4697-a649-a5e10b19230c.png)" width="200" height="230"/>
+        <li>
+          <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr">"Essence of Calculus" by 3Blue1Brown</a> <strong>(necessary)</strong>
         </li>
      </ul>
      <h4>Practice</h4>
@@ -113,8 +116,7 @@ I'm certain that this roadmap may help you to understand a modern game developme
      </ul>
     <h4>Additional resources</h4>
      <ul>
-        <li><a href="https://www.khanacademy.org/math/precalculus">Khan Academy: Precalculus</a></li>
-        <li><a href="https://www.youtube.com/playlist?list=PLl-Np5U6u5E4sv_fgOyo6nsHMWhf3P-6T">Precalculus Video Lecturus</a></li>
+        <li><a href="https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/">"Single Variable Calculus: Video Lectures" by MIT (recommended)</a></li>
      </ul>
   </li>
 </ol>
