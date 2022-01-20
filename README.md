@@ -74,7 +74,7 @@ I'm certain that this roadmap may help you to understand a modern game developme
      <h4>Practice</h4>
      <ul>
         <li> 
-          <p><strong>Pre-Calculus For Dummies: 1,001 Practice Problem by Mary Jane Sterling</p>
+          <p><strong>Pre-Calculus For Dummies: 1,001 Practice Problem by Mary Jane Sterling</strong></p>
           <img src="https://user-images.githubusercontent.com/31415381/148806112-acfa667d-d9a1-4a0c-971c-191afe5c828f.png"  width="200" height="230"/>
         </li>
      </ul>
@@ -107,8 +107,8 @@ I'm certain that this roadmap may help you to understand a modern game developme
      <h4>Practice</h4>
      <ul>
         <li> 
-          <p><strong>Pre-Calculus For Dummies: 1,001 Practice Problem by Mary Jane Sterling</p>
-          <img src="![image](https://user-images.githubusercontent.com/31415381/148810354-42fa00ed-b567-4715-abdd-cb08779d21cf.png)"  width="200" height="230"/>
+          <p><strong>Pre-Calculus For Dummies: 1,001 Practice Problem by Mary Jane Sterling</strong></p>
+          <img src=""  width="200" height="230"/>
         </li>
      </ul>
     <h4>Additional resources</h4>
