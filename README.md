@@ -122,6 +122,37 @@ I'm certain that this roadmap may help you to understand a modern game developme
         <li><a href="https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/">"Single Variable Calculus: Video Lectures" by MIT </a>(recommended)</li>
      </ul>
   </li>
+    <li> <h3>Linear Algebra: Basic</h3>
+     <h4>Goal</h4>
+        <p>Understanding math concepts such as:</p>
+        <ul>
+          <li> Vectors and Vector Space
+          <li> Dot and cross product
+          <li> Matrices
+          <li> System of linear equation
+        </ul>
+     <h4>Theory</h4>
+     <ul> 
+        <li>
+          <p><strong>Linear Algebra by Serge Lang</strong></p>
+          <img src="https://user-images.githubusercontent.com/31415381/150315387-ec011dc5-0c74-4cfa-bb1e-f498ff9e4279.png" width="200" height="230"/>
+        </li>
+        <li>
+          <p><em>Linear Algebra by D. Cherney, T. Denton, R. Thomas, A. Waldron</em></p>
+          <img src="https://user-images.githubusercontent.com/31415381/150316398-acf1df8b-314b-42b3-93fa-0ce759854f10.png" width="200" height="230"/>
+        </li>
+        <li>
+          <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">"Essence of Linear Algebra" by 3Blue1Brown</a> <strong>(necessary)</strong>
+        </li>
+     </ul>
+     <h4>Practice</h4>
+     <ul>
+        <li> 
+          <p><strong>Exercises And Problems In Linear Algebra by John M. Erdman</strong></p>
+          <img src="https://user-images.githubusercontent.com/31415381/150316981-5bf1fac2-5d2f-46c6-81bb-f47f1dc3e649.png" width="200" height="230"/>
+        </li>
+     </ul>
+  </li>
 </ol>
 
 <h2>Aknowledges</h2>
