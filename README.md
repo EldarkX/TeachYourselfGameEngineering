@@ -135,7 +135,7 @@ I'm certain that this roadmap may help you to understand a modern game developme
      <ul> 
         <li>
           <p><strong>Linear Algebra by Serge Lang</strong></p>
-          <img src="https://user-images.githubusercontent.com/31415381/150315387-ec011dc5-0c74-4cfa-bb1e-f498ff9e4279.png" width="200" height="230"/>
+          <img src="https://user-images.githubusercontent.com/31415381/150317227-4e3b0872-dd12-4661-8f79-25c809c800e5.png" width="200" height="230"/>
         </li>
         <li>
           <p><em>Linear Algebra by D. Cherney, T. Denton, R. Thomas, A. Waldron</em></p>
