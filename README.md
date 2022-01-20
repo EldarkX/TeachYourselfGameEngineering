@@ -5,6 +5,8 @@
 I use such phrasing as <strong>Game Engineering</strong> because I believe in a scientific approach and I think that a true developer is also an engineer. The ultimate goal is to build your own game engine with advanced features such as rendering system, UI, AI, physics and collision system, networking support etc. 
 
 I'm certain that this roadmap may help you to understand a modern game development approach better as well as widen your technical expertise.</p>
+
+<p>Don't be a spectator, be a participant."</p>
 <h1>Contents</h1>
 <ol start="0">
   <li><a href="#0-before-we-start">Before we start</a></li>
@@ -34,7 +36,7 @@ I'm certain that this roadmap may help you to understand a modern game developme
 </p> 
 <h4>Notation</h4>
 <ul>
-  <li><strong>Neccessary resource</strong></li>
+  <li><strong>Essential resource</strong></li>
   <li>Recommended resource</li>
   <li><em>Additional resource</em></li>
 </ul>
@@ -104,7 +106,7 @@ I'm certain that this roadmap may help you to understand a modern game developme
           <p> Calculus 4th edition by Michael Spivak </p>
           <img src="https://user-images.githubusercontent.com/31415381/150311356-6259ab3a-d89f-4697-a649-a5e10b19230c.png" width="200" height="230"/>
         <li>
-          <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr">"Essence of Calculus" by 3Blue1Brown</a> <strong>(necessary)</strong>
+          <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr">"Essence of Calculus" by 3Blue1Brown</a> <strong>(essential)</strong>
         </li>
      </ul>
      <h4>Practice</h4>
@@ -142,7 +144,7 @@ I'm certain that this roadmap may help you to understand a modern game developme
           <img src="https://user-images.githubusercontent.com/31415381/150316398-acf1df8b-314b-42b3-93fa-0ce759854f10.png" width="200" height="230"/>
         </li>
         <li>
-          <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">"Essence of Linear Algebra" by 3Blue1Brown</a> <strong>(necessary)</strong>
+          <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">"Essence of Linear Algebra" by 3Blue1Brown</a> <strong>(essential)</strong>
         </li>
      </ul>
      <h4>Practice</h4>
@@ -175,7 +177,7 @@ I'm certain that this roadmap may help you to understand a modern game developme
           <img src="https://user-images.githubusercontent.com/31415381/150324594-e6d56a56-3617-4080-8ec6-f97f88d0a769.png" width="200" height="230"/>
         </li>
         <li>
-          <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDOjmo3Y6ADm0ScWAlEXf-fp">"Probabilities of probabilities" by 3Blue1Brown</a> <strong>(necessary)</strong>
+          <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDOjmo3Y6ADm0ScWAlEXf-fp">"Probabilities of probabilities" by 3Blue1Brown</a> <strong>(essential)</strong>
         </li>
      </ul>
      <h4>Practice</h4>
