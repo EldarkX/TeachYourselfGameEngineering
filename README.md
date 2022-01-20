@@ -110,8 +110,11 @@ I'm certain that this roadmap may help you to understand a modern game developme
      <h4>Practice</h4>
      <ul>
         <li> 
-          <p><strong>Pre-Calculus For Dummies: 1,001 Practice Problem by Mary Jane Sterling</strong></p>
-          <img src=""  width="200" height="230"/>
+          <p><strong>Essential Calculus Skills Practice Workbook with Full Solutions by Chris McMullen</strong></p>
+          <img src="https://user-images.githubusercontent.com/31415381/150313504-fe0309f4-d557-45ee-81fc-ccd89d30ac80.png" width="200" height="230"/>
+        </li>
+        <li>
+          <a href="https://tutorial.math.lamar.edu/Problems/CalcI/CalcI.aspx">"Calculus I: Problems" by Paul's Online Notes</a> (recommended)
         </li>
      </ul>
     <h4>Additional resources</h4>
