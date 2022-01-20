@@ -153,6 +153,43 @@ I'm certain that this roadmap may help you to understand a modern game developme
         </li>
      </ul>
   </li>
+  <li> <h3>Probability Theory</h3>
+     <h4>Goal</h4>
+        <p>Understanding math concepts such as:</p>
+        <ul>
+          <li> Basic Probability
+          <li> Compound Probability
+          <li> Probability Distributions
+          <li> Frequentist Inference
+          <li> Bayesian Inference
+          <li> Regression Analysis
+        </ul>
+     <h4>Theory</h4>
+     <ul> 
+        <li>
+          <p><strong>Introduction To Probability by Dimitri P. Bertsekas</strong></p>
+          <img src="https://user-images.githubusercontent.com/31415381/150323958-561807a5-a2ff-4622-baad-139ecfd5c152.png" width="200" height="230"/>
+        </li>
+        <li>
+          <p><em>The Nature Of Code by Daniel Shiffman</em></p>
+          <img src="https://user-images.githubusercontent.com/31415381/150324594-e6d56a56-3617-4080-8ec6-f97f88d0a769.png" width="200" height="230"/>
+        </li>
+        <li>
+          <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDOjmo3Y6ADm0ScWAlEXf-fp">"Probabilities of probabilities" by 3Blue1Brown</a> <strong>(necessary)</strong>
+        </li>
+     </ul>
+     <h4>Practice</h4>
+     <ul>
+        <li> 
+          <p><strong>Problems in Probability Theory, Mathematical Statistics and Theory of Random Functions by A. A. Sveshnikov</strong></p>
+          <img src="https://user-images.githubusercontent.com/31415381/150324839-58a34eca-9624-4d7c-a745-9d511a0fa581.png" width="200" height="230"/>
+        </li>
+     </ul>
+     <h4>Additional resources</h4>
+     <ul>
+        <li><a href="https://seeing-theory.brown.edu/index.html">"Seeing Theory"</a>(recommended)</li>
+     </ul>
+  </li>
 </ol>
 
 <h2>Aknowledges</h2>
