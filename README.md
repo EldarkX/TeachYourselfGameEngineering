@@ -116,7 +116,7 @@ I'm certain that this roadmap may help you to understand a modern game developme
      </ul>
     <h4>Additional resources</h4>
      <ul>
-        <li><a href="https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/">"Single Variable Calculus: Video Lectures" by MIT (recommended)</a></li>
+        <li><a href="https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/">"Single Variable Calculus: Video Lectures" by MIT </a>(recommended)</li>
      </ul>
   </li>
 </ol>
